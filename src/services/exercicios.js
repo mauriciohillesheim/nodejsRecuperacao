@@ -7,6 +7,7 @@ class Serviceexercicios {
                 Somar: "Soma dois números endpoint = /exercicio/soma",
                 CalculaSalario: "Multiplica dois números endpoint = /exercicio/mult",
                 Mult: "Multiplica dois números endpoint = /exercicio/mult",
+                testando
             }
         }
 
